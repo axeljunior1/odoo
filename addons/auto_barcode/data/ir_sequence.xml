@@ -1,0 +1,8 @@
+<odoo>
+    <record id="seq_product_barcode" model="ir.sequence">
+        <field name="name">Product Barcode</field>
+        <field name="code">product.barcode</field>
+        <field name="padding">12</field>
+        <field name="number_increment">1</field>
+    </record>
+</odoo>
