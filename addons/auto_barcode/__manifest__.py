@@ -2,7 +2,7 @@
     "name": "Automatic Barcode Generator",
     "summary": "Generate barcode automatically on product creation",
     "version": "17.0.1.0",
-    "author": "Your Name",
+    "author": "Axel Mengue",
     "license": "LGPL-3",
     "category": "Inventory",
     "depends": ["product"],
